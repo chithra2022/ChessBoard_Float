@@ -1,0 +1,25 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+.clear{
+	clear: both;
+}
+.white{
+	background-color: white;
+}
+.black{
+	background-color: black;
+}
+.size{
+	width: 65px;
+	height: 65px;
+	float: left;
+}
+.chessboard{
+	margin: 40px auto;
+	width: 520px;
+	border: 5px solid black;
+	box-shadow: 10px 10px #cacccb;
+}
